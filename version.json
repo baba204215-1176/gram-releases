@@ -1,9 +1,9 @@
 {
- "build": 21,
- "name": "v21",
- "apk": "Gram-v21.apk",
- "size": 66842683,
- "sha256": "cb48c0b2fcb485690af2909d0cb0f50b758412571ba12a34a6c10e8f16b1da99",
+ "build": 22,
+ "name": "v22",
+ "apk": "Gram-v22.apk",
+ "size": 67112466,
+ "sha256": "8d96b1a9f3ed3f2d804edbe96f033d2bf90b0d75debfff45ef4147e959e6e467",
  "cert_sha256": "52e3162416161f338fbaf239fa33c8eadc0210314b0b86e0310dedf91eb7c07e",
- "notes_hi": "नया: ऑडियो की आवाज़ और साफ़। Voice boost अब Clear voice, Bass और Soft में भी उतना ही तेज़ चलता है। पीछे का लगातार शोर हल्का होता है, आवाज़ वैसी ही रहती है (player → Sound → Noise reduction: Off, Light, Medium, Strong)।"
+ "notes_hi": "नया रूप (New Look) और आवाज़ के नए फ़ीचर:\n1. पूरे ऐप का रंग-रूप नया है — नई थीम, गोल कार्ड, हल्की हलचल। पुराना रूप वापस चाहिए तो Settings → Gram Look → «Restore my previous look» दबाएँ।\n2. चैट लिस्ट में «Gram» के आगे वाला बटन अब सारी प्रायोरिटी चेतावनियाँ रोकता है। लाल = घंटी, बोलना, पूरी स्क्रीन वाली चेतावनी और चैट का अपने-आप खुलना सब बंद। हरा = सब चालू।\n3. आवाज़ के पीछे का संगीत अब धीमा होता है: player → Sound → Background music (Off, Light, Medium, Strong, Max)। अभी Medium है। गाने सुनते समय इसे Off रखें।\n4. यही आवाज़ की सेटिंग अब वीडियो में भी लगती है। वीडियो के ⋮ मेनू में भी Sound है।"
 }

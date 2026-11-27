@@ -1,17 +1,17 @@
 {
- "build": 26,
- "name": "v26",
- "apk": "Gram-v26.apk",
- "size": 69064803,
- "sha256": "ac1e85c539856ab0ac9ddab48067863a5ef994d09909cabb27d2f7b01bba017d",
+ "build": 27,
+ "name": "v27",
+ "apk": "Gram-v27.apk",
+ "size": 69302879,
+ "sha256": "8327fa76fff3d6884877e5ea3e3165a910b0311922db442ba660ed70a46e64f6",
  "cert_sha256": "52e3162416161f338fbaf239fa33c8eadc0210314b0b86e0310dedf91eb7c07e",
- "notes_hi": "1. गहरी थीम में शीट, 3-डॉट मेनू और सेटिंग के सफ़ेद पन्ने ठीक: अब अक्षर साफ़ पढ़े जाते हैं।\n2. प्लेयर में एपिसोड हमेशा बढ़ते क्रम में (505 के बाद 506); बीच का एपिसोड न हो तो सर्वर से ढूँढता है।\n3. High priority लगाते समय बोलने वाला नाम चुनें, और चाहें तो आया ऑडियो अपने-आप बजे (लाल बटन से बंद)।\n4. Sound में +18 पर असली बढ़त दिखती है; बिना push वाली ज़रूरी पोस्ट अब जल्दी पहुँचती है।",
+ "notes_hi": "1. 8 नई skins, नए सुंदर background के साथ: Cosmos, Saffron Dusk, Borealis, Peacock, Velvet, Thar, Abyss, Tea Garden।\n2. «Create your own skin»: किसी भी skin के रंग, बुलबुले और background मिलाकर अपनी skin बनाएँ; ऊपर चुनते ही झलक दिखती है।\n3. ज़रूरी सिग्नल अब उल्टी गिनती के पीछे नहीं रुकता; master switch बंद हो तो कब से बंद है, साफ़ दिखता है।\n4. रात में धीमी होती आवाज़ में ईयरफ़ोन का बटन अब कहानी नहीं रोकता; प्लेयर बंद हो तो Play से पिछली कहानी चलती है।",
  "previous": {
-  "build": 25,
-  "name": "v25",
+  "build": 26,
+  "name": "v26",
   "apk": "Gram-previous.apk",
-  "size": 68997121,
-  "sha256": "6bd330185d30cc8a73e33a044c755cce1638e9f0049b96739fa80baee6366e37",
+  "size": 69064803,
+  "sha256": "ac1e85c539856ab0ac9ddab48067863a5ef994d09909cabb27d2f7b01bba017d",
   "cert_sha256": "52e3162416161f338fbaf239fa33c8eadc0210314b0b86e0310dedf91eb7c07e",
   "rollback_ok": true
  }
